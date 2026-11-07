@@ -87,6 +87,7 @@ Python · PyTorch · TensorFlow/Keras · scikit-learn · OpenCV · llama.cpp · 
 
 ## Elsewhere
 
+- LinkedIn: [linkedin.com/in/sukrit-jaidee](https://www.linkedin.com/in/sukrit-jaidee)
 - IEEE Xplore: [author profile](https://ieeexplore.ieee.org/author/37087108134)
 - Kaggle: [kaggle.com/sukitch](https://www.kaggle.com/sukitch)
 
