@@ -32,9 +32,9 @@ Hi, I'm Sukrit 👋 I lead EV-charger business development at **EGAT Diamond Ser
 Also active: **[Qwen-Suite](https://github.com/SukritJaAIproject/Qwen-Suite)**, the Ollama + Open WebUI edition of the local AI setup with a Thai/English web console and offline installer, and **[github-monitor](https://github.com/SukritJaAIproject/github-monitor)**, a small Windows dashboard that keeps repository traffic and release-download history beyond GitHub's 14-day window.
 
 <p align="center">
-  <a href="https://github.com/SukritJaAIproject/EV_Charger_Fault_Detection_AI"><img src="https://raw.githubusercontent.com/SukritJaAIproject/EV_Charger_Fault_Detection_AI/main/docs/images/pcap-analysis.png" width="32%" alt="EV Charger Fault Detection AI: a capture analysed as Fault signal detected, Protocol Failed, with packet evidence and the observed stop initiator"></a>
-  <a href="https://github.com/SukritJaAIproject/EV_Charger_Fault_Detection_AI"><img src="https://raw.githubusercontent.com/SukritJaAIproject/EV_Charger_Fault_Detection_AI/main/docs/images/fault-distribution.png" width="32%" alt="Fault distribution across 212 stations: 5,986 labelled fault sessions in seven fault families"></a>
-  <a href="https://github.com/SukritJaAIproject/Qwen-Local-AI-Workbench"><img src="https://raw.githubusercontent.com/SukritJaAIproject/Qwen-Local-AI-Workbench/main/docs/screenshots/01-chat-en-dark.png" width="32%" alt="Qwen Local AI Workbench: chat in a project with a summary table built from a project file"></a>
+  <a href="https://github.com/SukritJaAIproject/EV_Charger_Fault_Detection_AI"><img src="assets/shot-ev-analysis.png" width="32%" alt="EV Charger Fault Detection AI: a capture analysed as Fault signal detected, Protocol Failed, with the packet evidence and fault interpretation"></a>
+  <a href="https://github.com/SukritJaAIproject/EV_Charger_Fault_Detection_AI"><img src="assets/shot-ev-fleet.png" width="32%" alt="Fault distribution across 212 stations: 5,986 labelled fault sessions in seven fault families"></a>
+  <a href="https://github.com/SukritJaAIproject/Qwen-Local-AI-Workbench"><img src="assets/shot-qwen-chat.png" width="32%" alt="Qwen Local AI Workbench: chat in a project with a summary table built from a project file"></a>
 </p>
 
 ## By the numbers
